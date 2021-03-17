@@ -8,6 +8,8 @@
 
 `yarn` 之后直接运行 `index.js` 或 `index.ts`。
 
+导出后的格式均为 [哔哩哔哩 API](https://github.com/SocialSisterYi/bilibili-API-collect) 返回的数据格式，如有需要请自行转换。
+
 ## 鸣谢
 
 <https://github.com/the1812/Bilibili-Evolved>
